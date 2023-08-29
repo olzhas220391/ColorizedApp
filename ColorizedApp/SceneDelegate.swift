@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  ColorizedApp
 //
-//  Created by Назар on 29.08.2023.
+//  Created by Olzhas on 29.08.2023.
 //
 
 import UIKit
